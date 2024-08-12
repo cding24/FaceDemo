@@ -1,3 +1,3 @@
 dependecies{
-  implementation("com.github.cding24:FaceDemo:v1.0")
+  implementation("com.github.cding24:FaceDemo:1.0.0")
 }
